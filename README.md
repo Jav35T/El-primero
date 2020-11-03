@@ -1,2 +1,2 @@
 # El-primero
-Vamos a intentar empezar con algo de esto del machine learning.
+Vamos a intentar empezar con algo de esto del machine learning. usando lo ya aprendido hasta ahora de base de datos y  visual basic mientras migramos a Python y mejoramos el procesamiento de datos..va a ser una ensalada hasta que vayamos ajustando el rumbo...
